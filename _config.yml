@@ -1,7 +1,7 @@
 name: superhuman
 favicon: null
-layout_spectrum: 0.1912096096202731
-typography_spectrum: 0.6605061520822346
+layout_spectrum: 0
+typography_spectrum: 0.63267
 title: "Superhuman —\_Be Brilliant"
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.7223505084402859
-  lightness: 0.8964654081501067
-  saturation: 0.26177447475492954
-  rhythmicContrast: 0.8610440774355084
+  brandStrength: 1
+  lightness: 0.4375
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
